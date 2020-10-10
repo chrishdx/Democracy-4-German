@@ -1,21 +1,19 @@
 [config]
 name  = usa
-guiname = "United States of America"
-description = "Die Vereinigten Staaten von Amerika sind flächenmäßig das dritt- oder viertgrößte Land der Welt und das drittgrößte Land der Welt. Amerikaner sind eine rassisch und ethnisch vielfältige Bevölkerung, die durch Jahrhunderte der Einwanderung geprägt wurde. Die Vereinigten Staaten sind eine Bundesrepublik und eine repräsentative Demokratie. Es ist Gründungsmitglied der Vereinten Nationen, der Weltbank, des Internationalen Währungsfonds und der NATO. Die USA sind ständiges Mitglied des Sicherheitsrates der Vereinten Nationen."
-
-jobtitle = "President"
+guiname = "Vereinigte Staaten von Amerika"
+description = "Die Vereinigten Staaten von Amerika sind flächenmäßig das dritt- oder viertgrößte Land der Welt und das drittbevölkerungsreichste Land der Welt. Amerikaner sind eine rassisch und ethnisch vielfältige Bevölkerung, die durch Jahrhunderte der Einwanderung geprägt wurde. Die Vereinigten Staaten ist eine Bundesrepublik und eine repräsentative Demokratie. Sie ist Gründungsmitglied der Vereinten Nationen, der Weltbank, des Internationalen Währungsfonds und der NATO. Die USA sind ständiges Mitglied des Sicherheitsrates der Vereinten Nationen. "
+jobtitle = "Präsident"
 
 [stats]
-Population: = "328.000.000 (Jan 2020)"
-Größe: = "9.800.000 km²"
-größte Stadt: = "New York City"
-Agrarland: = "44.5%"
-Ethnizität: = "76.5% weiss (18.3% Latino) 13.4% schwarz"
-Nationalhymne: = "The Star-Spangled Banner"
+Bevölkerung: = "328 Millionen (Januar 2020)"
+Größe: = "9,8 Millionen km²"
+Größte Stadt: = "New York City"
+Ackerland: = "44,5% der Gesamtfläche"
+Ethnizität: = "76,5% Weiß (18,3% Latino) 13,4% Schwarz"
+Nationalhymne: = "Das Sternenbanner"
 Top Touristenziel: = "The Grand Canyon"
-Das beliebteste Essen: = "Cheeseburger"
-Größte Industrie: = "Immobilien"
-
+Beliebtestes Essen: = "Cheeseburger"
+Größte Branche: = "Immobilien"
 
 
 
