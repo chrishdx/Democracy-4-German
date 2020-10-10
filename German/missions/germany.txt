@@ -5,12 +5,12 @@ description = "Die Bundesrepublik Deutschland, besser bekannt als Deutschland, i
 jobtitle = "Kanzler"
 
 [stats]
-Population: = "83,783,942 (2020)"
-Size: = "357,386 quadrat Kilometer"
+Einwohner: = "83,783,942 (2020)"
+Größe: = "357,386 quadrat Kilometer"
 Religion: = "Keine 39%, katholisch 27%, evangelisch 25%, islamisch 5%, "
-Exports: = "Fahrzeuge, Maschinen, Chemikalien, Elektronik, Pharmazeutika, Metalle, Lebensmittel."
-World Leader: = "Klima- und Energiepolitik, Anzahl der Zoos (> 400), Exporte"
-Member of: = "Eurozone, EU single market, NATO, G4"
+Exporte: = "Fahrzeuge, Maschinen, Chemikalien, Elektronik, Pharmazeutika, Metalle, Lebensmittel."
+Weltführer: = "Klima- und Energiepolitik, Anzahl der Zoos (> 400), Exporte"
+Mitglied: = "Eurozone, EU-Binnenmarkt, NATO, G4"
 
 
 
