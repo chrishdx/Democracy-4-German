@@ -6,7 +6,7 @@ description = "Die Vereinigten Staaten von Amerika sind flächenmäßig das drit
 jobtitle = "President"
 
 [stats]
-Population: = "328 million (Jan 2020)"
+Population: = "328.000.000 (Jan 2020)"
 Größe: = "9.800.000 km²"
 größte Stadt: = "New York City"
 Agrarland: = "44.5%"
