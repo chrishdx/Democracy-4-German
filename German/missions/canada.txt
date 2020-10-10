@@ -2,7 +2,6 @@
 name  = canada
 guiname = "Kanada"
 description = "Kanada ist eine föderale parlamentarische Demokratie mit einer konstitutionellen Monarchie. Der Premierminister wird gewählt. Formal eine Kolonie Großbritanniens, wurde die neue Nation Kanada erstmals 1867 zur Demokratie. 1919 gewannen Frauen die Abstimmung, aber erst 1960 konnten alle kanadischen Staatsbürger, unabhängig von ihrer ethnischen Zugehörigkeit, wählen und das allgemeine Wahlrecht wurde zum Gesetz."
-
 jobtitle = "Premierminister"
 
 [stats]
