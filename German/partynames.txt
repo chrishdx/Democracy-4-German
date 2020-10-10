@@ -1,79 +1,72 @@
 [names]
-The Justice Coalition
-The Family Values Party
-The Labor League
-The Justice League
-The Green Collective
-The Dominion
-The Peoples Choice Party
-The Liberal Justice Wing
-The Movement for Justice
-The Freedom Brigade
-The Holy Justice Alliance
-The Futurist Party
-The Popular Democrats
-The Popular Republicans
-The Republican Party
-The Democratic Party
-The New Technocrats
-The National Technocrats Party
-The Equality Party
-The Future Democrats
-The Science Party
-The Industrial Party
-The Civil Rights League
-The Modern Family Party
-The Natural Law Party
-The Radical Democrats
-The Radical Loyalists
-The Party For Change
-The Movement for True Freedom
-The Egalitarian Democrats
-The Egalitarian Republicans
-The Neo-Colonialist League
-The Social Justice Party
-The Constitutional Party
-The Anti-Corruption Movement
-The Socialist Revolutionary Party
-The Libertarian Freedom League
-The Patriotic Alliance
-The Defenders Of The Faith
-The Communist Alliance
-The Progressive Change Party
-The Movement For Radical Change
-The No Going Back Party
-The United Diversity Alliance
-The Stop The Patriarchy Party
-The Eternal Freedom Party
-The Unity Pacifists
-The Democratic Moderates
-The United Moderates
-The New Moderates
-The United Republicans
-The Federation Of Socialists
-The Revolutionary Capitalists
-The Property-Rights Party
-The Fundamental Rights Party
-The Progressive Fundamentalists
-The Eco Union
-The Techno-Environmentalists
-The Green Alliance
-The Citizens Alliance
-The Absolute Unity Party
-The Social Democrats
-The Unionists
-The United Right
-The United Left
-The New Right
-The New Left
-The Progressive Fascist Party
-The Welfare Reform party
-The Reform Society
-The Radical Reform party
-
-
-
-
-
-
-
+Die Gerechtigkeitskoalition
+Die Familienpartei
+Die Labour League
+Die Liga der Gerechten
+Das grüne Kollektiv
+Das Dominion
+Die Peoples Choice Party
+Der liberale Justizflügel
+Die Bewegung für Gerechtigkeit
+Die Freiheitsbrigade
+Die Holy Justice Alliance
+Die futuristische Partei
+Die Volksdemokraten
+Die Volksrepublikaner
+Die Republikanische Partei
+Die Demokratische Partei
+Die neuen Technokraten
+Die Nationale Technokraten-Partei
+Die Gleichstellungspartei
+Die zukünftigen Demokraten
+Die Wissenschaftspartei
+Die Industriepartei
+Die Bürgerrechtsliga
+Die moderne Familienfeier
+Die Naturrechtspartei
+Die radikalen Demokraten
+Die radikalen Loyalisten
+Die Partei für Veränderung
+Die Bewegung für wahre Freiheit
+Die egalitären Demokraten
+Die egalitären Republikaner
+Die neokolonialistische Liga
+Die Partei für soziale Gerechtigkeit
+Die konstitutionelle Partei
+Die Antikorruptionsbewegung
+Die sozialistische revolutionäre Partei
+Die Libertarian Freedom League
+Die patriotische Allianz
+Die Verteidiger des Glaubens
+Die kommunistische Allianz
+Die Progressive Change Party
+Die Bewegung für radikale Veränderungen
+Die No Going Back Party
+Die United Diversity Alliance
+Der Stopp Die Patriarchatspartei
+Die Ewige Freiheitspartei
+Die Einheitspazifisten
+Die demokratischen Gemäßigten
+Die Vereinigten Moderaten
+Die neuen Moderaten
+Die Vereinigten Republikaner
+Die Föderation der Sozialisten
+Die revolutionären Kapitalisten
+Die Eigentumsrechtspartei
+Die Partei für Grundrechte
+Die progressiven Fundamentalisten
+Die Öko-Union
+Die Techno-Umweltschützer
+Die Grüne Allianz
+Die Bürgerallianz
+Die Partei der absoluten Einheit
+Die Sozialdemokraten
+Die Unionisten
+Das Vereinigte Recht
+Die Vereinigte Linke
+Das neue Recht
+Die neue Linke
+Die progressive faschistische Partei
+Die Wohlfahrtsreformpartei
+Die Reformgesellschaft
+Die radikale Reformpartei
