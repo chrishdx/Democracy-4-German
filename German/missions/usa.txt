@@ -7,9 +7,9 @@ jobtitle = "President"
 
 [stats]
 Population: = "328 million (Jan 2020)"
-Größe: = "9.8 million km²"
+Größe: = "9.800.000 km²"
 größte Stadt: = "New York City"
-Agrarland: = "44.5% of total"
+Agrarland: = "44.5%"
 Ethnizität: = "76.5% weiss (18.3% Latino) 13.4% schwarz"
 Nationalhymne: = "The Star-Spangled Banner"
 Top Touristenziel: = "The Grand Canyon"
