@@ -11,7 +11,7 @@ Ethnizität: = "87,1% Weiß 3% Schwarz 6,9% Asiatisch"
 Religion: = "Christ (59,5%) Muslim (4,4%) Hindu (1,3%)"
 Exporte: = "Autos, Jets, Rohöl, Gold, Medikamente"
 Beliebtestes Essen: = "Fish and Chips"
-Nationalhymne: = "Gott schütze die Königin"
+Nationalhymne: = "God Save The Queen"
 Wohlhabendster Bürger: = "Sir James Dyson (2020)"
 
 
