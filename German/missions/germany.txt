@@ -1,16 +1,16 @@
 [config]
 name  = germany
 guiname = "Deutschland"
-description = "Die Bundesrepublik Deutschland, besser bekannt als Deutschland, ist eine Bundesparlamentarische Republik, die die 16 Staaten unter der Führung des Präsidenten (weitgehend zeremoniell) und des Bundeskanzlers vereint. Deutschland hat eine starke, wachsende Wirtschaft, die zu den besten der Welt zählt. Deutschland ist ein führendes Mitglied der Europäischen Union. Deutschland wurde 1919 zum ersten Mal eine Demokratie, wurde aber ab 1933 als Diktatur regiert. Nach dem Zweiten Weltkrieg, der 1945 endete und einige Jahre der Verwirrung herrschte, kehrte es 1949 zu einer Demokratie zurück."
+description = "Die Bundesrepublik Deutschland, besser bekannt als Deutschland, ist eine Bundesparlamentarische Republik, die die 16 Staaten unter der Führung des Präsidenten (weitgehend zeremoniell) und des Bundeskanzlers vereint. Deutschland hat eine starke, wachsende Wirtschaft, zu der auch eine gehört Deutschland ist ein führendes Mitglied der Europäischen Union. Deutschland wurde erstmals 1919 zur Demokratie, wurde jedoch ab 1933 als Diktatur regiert. Nach dem Zweiten Weltkrieg, der 1945 endete und einige Jahre der Verwirrung, kehrte es zurück zu einer Demokratie im Jahr 1949. "
 jobtitle = "Kanzler"
 
 [stats]
-Bevölkerungsanzahl: = "83,783,942 (2020)"
+Bevölkerung: = "83.783.942 (2020)"
 Größe: = "357.386 km²"
-Religion: = "Keine 39%, katholisch 27%, evangelisch 25%, islamisch 5%, "
+Religion: = "Keine 39%, Katholizismus 27%, Evangelisch 25%, Islam 5%,"
 Exporte: = "Fahrzeuge, Maschinen, Chemikalien, Elektronik, Pharmazeutika, Metalle, Lebensmittel."
-Weltführer: = "Klima- und Energiepolitik, Anzahl der Zoos (> 400), Exporte"
-Mitglied: = "Eurozone, EU-Binnenmarkt, NATO, G4"
+Weltmarktführer: = "Klima- und Energiepolitik, Anzahl der Zoos (> 400), Exporte"
+Mitglied von: = "Eurozone, EU-Binnenmarkt, NATO, G4"
 
 
 
