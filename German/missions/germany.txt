@@ -5,7 +5,7 @@ description = "Die Bundesrepublik Deutschland, besser bekannt als Deutschland, i
 jobtitle = "Kanzler"
 
 [stats]
-Einwohner: = "83,783,942 (2020)"
+Bevölkerungsanzahl: = "83,783,942 (2020)"
 Größe: = "357.386 km²"
 Religion: = "Keine 39%, katholisch 27%, evangelisch 25%, islamisch 5%, "
 Exporte: = "Fahrzeuge, Maschinen, Chemikalien, Elektronik, Pharmazeutika, Metalle, Lebensmittel."
